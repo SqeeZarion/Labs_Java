@@ -1,0 +1,16 @@
+лист. 24, 2022 12:43:56 ПП org.example.DistributionPanelCommand.DistributionPanel mainMenuText
+INFO: Print main menu
+лист. 24, 2022 12:44:02 ПП org.example.Command.SearchByParameters SearchByParameters
+INFO: Search the device by mode status
+лист. 24, 2022 12:44:24 ПП org.example.Command.SearchByParameters SearchByParameters
+INFO: User is searching for device with power more than: 30 but less than: 120
+лист. 24, 2022 12:44:27 ПП org.example.Command.SearchByParameters SearchByParameters
+INFO: User is searching forfalse device
+лист. 24, 2022 12:44:27 ПП org.example.Command.RegulateCommands certainty
+INFO: user choose search by parameters
+лист. 24, 2022 12:44:27 ПП org.example.DistributionPanelCommand.DistributionPanel mainMenuText
+INFO: Print main menu
+лист. 24, 2022 12:44:38 ПП org.example.Command.RegulateCommands certainty
+INFO: user choose print all device
+лист. 24, 2022 12:44:38 ПП org.example.DistributionPanelCommand.DistributionPanel mainMenuText
+INFO: Print main menu
